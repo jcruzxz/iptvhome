@@ -2,7 +2,7 @@
 
 # 📺 TV Junior
 
-#EXTINF:-1 group-title="TV Junior",Vingadores Animação PT
+#EXTINF:-1 group-title="TV Junior" tvg-logo="https://w7.pngwing.com/pngs/311/2/png-transparent-marvel-avengers-logo-thor-iron-man-hulk-ultron-kids-background-television-avengers-text.png",Vingadores Animação PT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137514
