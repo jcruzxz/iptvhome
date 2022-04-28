@@ -2,22 +2,22 @@
 
 # 📺 TV Junior
 
-#EXTINF:-1 group-title="TV Junior" tvg-logo="https://w7.pngwing.com/pngs/311/2/png-transparent-marvel-avengers-logo-thor-iron-man-hulk-ultron-kids-background-television-avengers-text.png",Vingadores Animação PT
+#EXTINF:-1 group-title="TV Junior",Vingadores Animação PT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137514
 
-#EXTINF:-1 group-title="TV Junior" tvg-logo="https://img2.gratispng.com/20180721/atx/kisspng-logo-the-movies-hollywood-film-premiere-senior-scams-5b53c3450cb0a8.338133781532216133052.jpg",Filmes Animação PT
+#EXTINF:-1 group-title="TV Junior",Filmes Animação PT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137513
 
-#EXTINF:-1 group-title="TV Junior" tvg-logo="https://media.baamboozle.com/uploads/images/26124/1604620069_27268",NETFLIX Kids PT
+#EXTINF:-1 group-title="TV Junior",NETFLIX Kids PT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137524
 
-#EXTINF:-1 tvg-id="" group-title="ANIMES" tvg-logo="https://cpng.pikpng.com/pngl/s/90-907219_logo-dragon-ball-super-png-dragon-ball-super.png",Dragon Ball Super
+#EXTINF:-1 tvg-id="" group-title="ANIMES",Dragon Ball Super
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137512
@@ -51,27 +51,27 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137490
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137489
 
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://w7.pngwing.com/pngs/372/197/png-transparent-star-wars-logo-darth-maul-obi-wan-kenobi-star-wars-logo-jedi-star-wars-logo-text-star-wars-episode-vii-gold.png",STARWARS
+#EXTINF:-1 group-title="Filmes",STARWARS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137504
 
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://w7.pngwing.com/pngs/662/111/png-transparent-computer-icons-film-web-browser-directory-others-media-film-action-film.png",FILMES ACÇAO
+#EXTINF:-1 group-title="Filmes",FILMES ACÇAO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137494
 
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://w7.pngwing.com/pngs/37/149/png-transparent-abbott-and-costello-brand-logo-advertising-comedy-movie-white-logo-abbott-and-costello.png",FILMES COMEDIA
+#EXTINF:-1 group-title="Filmes",FILMES COMEDIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137497
 
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://flyclipart.com/thumb2/jackie-chan-adventures-jenesis-890639.png",FILMES JACKIE CHAN ADVENTURES
+#EXTINF:-1 group-title="Filmes",FILMES JACKIE CHAN ADVENTURES
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137500
 
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://www.pngfind.com/pngs/m/690-6907273_disney-cinemagic-logo-png-transparent-png.png",Disney CineMagic
+#EXTINF:-1 group-title="Filmes",Disney CineMagic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137521
