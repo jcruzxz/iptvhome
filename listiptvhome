@@ -83,52 +83,53 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137521
 #EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/sport-tv-1-hd-pt.png",Sport TV1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://romanija.xyz:8080/22supertv7753/razmjena5262352/1551
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/285911?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/sport-tv-2-hd-pt.png",Sport TV2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://romanija.xyz:8080/22supertv7753/razmjena5262352/1552
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205667?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/sport-tv-3-hd-pt.png",Sport TV3 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://romanija.xyz:8080/22supertv7753/razmjena5262352/1553
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205668?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/sport-tv-4-hd-pt.png",Sport TV4 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://mains.services:2086/stanleyg/6916329/92135
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1458?checkedby:iptvcat.com
+
 
 #EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/sport-tv-5-hd-pt.png",Sport TV5 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://romanija.xyz:8080/22supertv7753/razmjena5262352/1555
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1459?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-1-icon-pt.png",Eleven Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://list.iptvcat.com/my_list/s/bb5d09f587be716e583111afeb541cc7.m3u8
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/158069?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-2-icon-pt.png",Eleven Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://fortv.cc:8080/alphonso/alphonso/78455
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/158902?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-3-icon-pt.png",Eleven Sports 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://fortv.cc:8080/alphonso/alphonso/78456
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/159765?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-4-icon-pt.png",Eleven Sports 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://fortv.cc:8080/alphonso/alphonso/78457
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHBqT3QeTqafGeqdpT_KVuk?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-5-icon-pt.png",Eleven Sports 5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://fortv.cc:8080/alphonso/alphonso/78458
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNARPOsgyZUx0qHBIoslOzc?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-6-icon-pt.png",Eleven Sports 6
 #KODIPROP:inputstream=inputstream.adaptive
