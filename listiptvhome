@@ -108,7 +108,7 @@ http://romanija.xyz:8080/22supertv7753/razmjena5262352/1555
 #EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-1-icon-pt.png",Eleven Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://mains.services:2086/stanleyg/6916329/92137
+https://list.iptvcat.com/my_list/s/bb5d09f587be716e583111afeb541cc7.m3u8
 
 #EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-2-icon-pt.png",Eleven Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
