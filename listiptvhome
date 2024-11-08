@@ -1,5 +1,47 @@
 #EXTM3U
 
+# 📺 TV Nacional
+
+#EXTINF:-1 group-title="TV Nacional" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://romanija.xyz:8080/22supertv7753/razmjena5262352/1544
+
+#EXTINF:-1 group-title="TV Nacional" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://romanija.xyz:8080/22supertv7753/razmjena5262352/1545
+
+#EXTINF:-1 group-title="TV Nacional" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1 group-title="TV Nacional" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth4.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
+
+#EXTINF:-1 group-title="TV Nacional" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Noticias
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://mains.services:2086/stanleyg/6916329/92058
+
+#EXTINF:-1 group-title="TV Nacional" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://romanija.xyz:8080/22supertv7753/razmjena5262352/1556
+
+#EXTINF:-1 group-title="TV Nacional" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDIyIDExOjE3OjUzIEFNJmhhc2hfdmFsdWU9dnlQWCtFTmN2VG0vN2Y0dGoxUU9sUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE5NzhhNDgzLTViYjgtNGRjZS05YTBlLWRjMTlhZDRkZDA0Ng==/
+
+#EXTINF:-1 group-title="TV Nacional",SIC RADICAL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://romanija.xyz:8080/22supertv7753/razmjena5262352/1548
+
 # 📺 TV Junior
 
 #EXTINF:-1 group-title="TV Junior",Vingadores Animação PT
